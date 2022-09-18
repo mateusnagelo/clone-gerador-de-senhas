@@ -45,7 +45,6 @@ body {
 .button-cta {
     height: 40px;
     margin-top: 40px;
-    /* background-color: #3EB72B; */
     border: 0;
     border-radius: 4px;
     color: #FFF;
@@ -53,6 +52,7 @@ body {
     font-weight: bold;
     cursor: pointer;
     background: linear-gradient(120deg, #3e3bffd8, #c41212da);
+    /* background-color: #3EB72B; */
 }
 
 .container-password {
